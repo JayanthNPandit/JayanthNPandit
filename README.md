@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi! I am Jayanth Pandit and I am currently studying Electrical and Computer Engineering and Mathematics at UT Austin. 
+### I am Jayanth Pandit and I am currently studying Electrical and Computer Engineering and Mathematics at UT Austin. 
 
 ### I am interested in studying Computer Architecture, Integrated Circuits, and Embedded Systems. Additionally, I enjoy reading about Economics, History, and Politics.
 
