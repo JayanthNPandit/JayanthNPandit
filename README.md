@@ -6,8 +6,9 @@
 
 ### I am excited to network with any professionals in the field to learn anything I can and discuss potential opportunities! Feel free to reach out at JayanthNPandit@utexas.edu!
 
-![https://github.com/JayanthNPandit](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![https://www.linkedin.com/in/jayanth-pandit/](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/JayanthNPandit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/jayanth-pandit/)
+
 
 <!--
 
