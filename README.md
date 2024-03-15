@@ -23,7 +23,7 @@
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Verilog](https://img.shields.io/badge/Verilog-41AA95?style=for-the-badge&logo=verilog&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
-[![KiCad](https://img.shields.io/badge/KiCad-4F2F4F?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad-pcb.org/)
+[![KiCad](https://img.shields.io/badge/KiCad-4F2F4F?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
 [![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![CAD](https://img.shields.io/badge/CAD-00599C?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/solutions/cad-software)
